@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 wwzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+=======
+wwwwwwwwww
+eeeeeeeeeeeeeeeekkkkkkkkkkkkkk
+>>>>>>> B1
